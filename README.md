@@ -62,7 +62,5 @@
 ## 结果界面大致如下
 ![](QQ截图20190920132133.png)
 
-## 视屏链接
-  [视频演示](https://v.youku.com/v_show/id_XNDM2ODY1NzEyOA==.html?spm=a2h3j.8428770.3416059.1)
-
-视频链接：https://v.youku.com/v_show/id_XNDM3MDI4NjUwMA==.html?spm=a2hzp.8244740.0.0
+## 视频链接
+https://v.youku.com/v_show/id_XNDM3MDI4NjUwMA==.html?spm=a2hzp.8244740.0.0
