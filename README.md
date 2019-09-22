@@ -49,18 +49,5 @@
     </tbody>
 </table>
 
-
-## 根据要求将游戏中对象做成预制
-![](QQ截图20190920134754.png)
-
-## 整个游戏仅主摄像机 和 一个empty对象，其他对象皆由代码动态生成。
-![](QQ截图20190920135120.png)
-
-## 程序结构为MVC程序结构，分为model， view以及 controller。
-![](QQ截图20190920134545.png)
-
-## 结果界面大致如下
-![](QQ截图20190920132133.png)
-
 ## 视频链接
 https://v.youku.com/v_show/id_XNDM3MDI4NjUwMA==.html?spm=a2hzp.8244740.0.0
